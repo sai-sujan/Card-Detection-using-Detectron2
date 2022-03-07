@@ -11,8 +11,6 @@
 
 
 
-## Demo
-Link: [https://fuel-efficiency-prediction557.herokuapp.com/](https://fuel-efficiency-prediction557.herokuapp.com/)
 
 [![](https://i.imgur.com/AML6dS0.jpg)](https://fuel-efficiency-prediction557.herokuapp.com/)
 [![](https://i.imgur.com/nqq2s7R.jpg)](https://fuel-efficiency-prediction557.herokuapp.com/)
